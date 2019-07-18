@@ -1,7 +1,7 @@
 # vue-project
 
 > Vue-Project
-Vue+element+Axios
+Vue+elementUI+Axios
 
 ## Build Setup
 
